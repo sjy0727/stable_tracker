@@ -1,0 +1,8 @@
+Cython
+pycocotools
+scipy
+loguru
+thop
+lap
+cython_bbox
+opencv-python
